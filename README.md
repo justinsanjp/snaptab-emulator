@@ -1,3 +1,4 @@
+English is below
 # Razer Snap Tap Emulator
 
 Dieses Projekt ist ein Emulator für das Razer Snap Tap Feature, implementiert in Python mit einer grafischen Benutzeroberfläche.
