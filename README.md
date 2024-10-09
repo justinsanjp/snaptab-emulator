@@ -21,11 +21,11 @@ Der Razer Snap Tap Emulator ahmt das Verhalten des Razer Snap Tap Features nach,
 1. Stellen Sie sicher, dass Python 3.x auf Ihrem System installiert ist.
 2. Klonen Sie dieses Repository:
    ```
-   git clone https://github.com/yourusername/razer-snap-tap-emulator.git
+   git clone https://github.com/justinsanjp/snaptab-emulator.git
    ```
 3. Navigieren Sie in das Projektverzeichnis:
    ```
-   cd razer-snap-tap-emulator
+   cd snaptab-emulator
    ```
 4. Installieren Sie die erforderlichen Abhängigkeiten:
    ```
@@ -36,7 +36,7 @@ Der Razer Snap Tap Emulator ahmt das Verhalten des Razer Snap Tap Features nach,
 
 1. Starten Sie das Programm:
    ```
-   python razer_snap_tap_emulator.py
+   python app.py
    ```
 2. Konfigurieren Sie die gewünschten Tasten und den Hotkey in der GUI.
 3. Klicken Sie auf "Anwenden", um die Einstellungen zu übernehmen.
